@@ -1,5 +1,6 @@
 ### Hi there 👋:smile:
-
+- 👩🏻‍💻 Web Developer sonares and therefore collaborating now on GitLab
+- 🎓 Graduated from Coding Bootcamps Europe
 - 🌱 always excited to learn new and challenging things
 - 👯 want to exchange and network with other developers
 - 🚀 I love exploring and creating
